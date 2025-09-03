@@ -14,7 +14,7 @@ class AuthGradientButton extends StatelessWidget {
             Pallete.gradient2,
           ],
           begin: Alignment.bottomLeft,
-          end: Alignment.topRight,
+          end: Alignment.topRight
         ),
         borderRadius: BorderRadius.circular(7.0),
       ),
